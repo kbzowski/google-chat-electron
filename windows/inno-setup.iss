@@ -5,11 +5,11 @@
 
 #define AppId "{E458AEFA-2577-4543-8554-F6335BC2D994}"
 #define AppName "Google Chat Electron"
-#define AppVersion "{{appVersion}}"
+#define AppVersion "2.29.0"
 #define AppPublisher "alescdb"
 #define AppURL "https://github.com/alescdb/google-chat-electron"
 #define AppExeName "google-chat-electron.exe"
-#define OutputBaseFilename "google-chat-electron-setup-win-x64-{{appVersion}}"
+#define OutputBaseFilename "google-chat-electron-setup-win-x64-2.29.0"
 #define OutputDir "../dist/installers"
 #define AppSourceDir "../dist/google-chat-electron-win32-x64/*"
 
